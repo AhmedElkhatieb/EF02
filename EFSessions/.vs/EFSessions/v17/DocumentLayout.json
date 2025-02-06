@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\data\\models\\studnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\data\\models\\studnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|c:\\web\\backend\\04 entity framework\\sessions\\efsessions\\ef_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E430E0-B907-4BE9-83CA-B7B0E4E85A3B}|EF_Assignment2\\EF_Assignment2.csproj|solutionrelative:ef_assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Stud_Course.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Stud_Course.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Stud_Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:49:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Instructor.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:47:06.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Department.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Department.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:46:30.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Topic.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Topic.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:46:08.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Course.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Course.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:44:20.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Studnet.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Studnet.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Data\\Models\\Studnet.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Data\\Models\\Studnet.cs",
+              "RelativeToolTip": "EF_Assignment2\\Data\\Models\\Studnet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:42:56.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Assignment2\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\EFSessions\\EF_Assignment2\\Program.cs",
+              "RelativeToolTip": "EF_Assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:41:19.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

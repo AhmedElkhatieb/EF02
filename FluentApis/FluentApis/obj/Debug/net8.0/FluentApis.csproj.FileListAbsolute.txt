@@ -1,0 +1,11 @@
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\bin\Debug\net8.0\FluentApis.deps.json
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\bin\Debug\net8.0\FluentApis.dll
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\bin\Debug\net8.0\FluentApis.pdb
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.AssemblyInfoInputs.cache
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.AssemblyInfo.cs
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.csproj.CoreCompileInputs.cache
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.dll
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\refint\FluentApis.dll
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\FluentApis.pdb
+C:\Web\Backend\04 Entity Framework\Sessions\FluentApis\FluentApis\obj\Debug\net8.0\ref\FluentApis.dll

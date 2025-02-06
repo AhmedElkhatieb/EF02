@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\FluentApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B3F0A2-C703-4EB5-951F-57CA2133A82B}|FluentApis\\FluentApis.csproj|c:\\web\\backend\\04 entity framework\\sessions\\fluentapis\\fluentapis\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B3F0A2-C703-4EB5-951F-57CA2133A82B}|FluentApis\\FluentApis.csproj|solutionrelative:fluentapis\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\FluentApis\\FluentApis\\Department.cs",
+              "RelativeDocumentMoniker": "FluentApis\\Department.cs",
+              "ToolTip": "C:\\Web\\Backend\\04 Entity Framework\\Sessions\\FluentApis\\FluentApis\\Department.cs",
+              "RelativeToolTip": "FluentApis\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:57:52.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
