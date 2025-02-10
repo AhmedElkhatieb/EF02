@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using EFSessions.Data.Models;
 using Microsoft.EntityFrameworkCore;
-using FluentApis;
 using EFSessions.Data.Configurations;
 using System.Reflection;
 namespace EFSessions.Data
@@ -49,5 +48,8 @@ namespace EFSessions.Data
         }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Department> Departments {  get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<StudentCourse> StudCourses { get; set; }
     }
 }

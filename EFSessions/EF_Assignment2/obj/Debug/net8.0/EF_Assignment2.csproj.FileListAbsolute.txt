@@ -1,0 +1,15 @@
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\bin\Debug\net8.0\EF_Assignment2.exe
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\bin\Debug\net8.0\EF_Assignment2.deps.json
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\bin\Debug\net8.0\EF_Assignment2.runtimeconfig.json
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\bin\Debug\net8.0\EF_Assignment2.dll
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\bin\Debug\net8.0\EF_Assignment2.pdb
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.AssemblyInfoInputs.cache
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.AssemblyInfo.cs
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.csproj.CoreCompileInputs.cache
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.sourcelink.json
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.dll
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\refint\EF_Assignment2.dll
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.pdb
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\EF_Assignment2.genruntimeconfig.cache
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EF_Assignment2\obj\Debug\net8.0\ref\EF_Assignment2.dll

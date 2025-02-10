@@ -35,6 +35,10 @@ namespace EFSessions
             // Another Syntax Sugar 
             #endregion
             using CompanyDbContext dbContext = new CompanyDbContext();
+
+
+            #endregion
+            #region Session 3
             #region CRUD Operations
             #region Insert
             Employee Emp01 = new Employee()
@@ -78,7 +82,7 @@ namespace EFSessions
             #endregion
             #region Read/Retreive
             //var Employee = (from E in dbContext.Employees
-            //               where E.Code == 3
+            //               where E.Code == 2
             //               select E).FirstOrDefault();
             //Console.WriteLine(Employee?.Name??"Not found");
             #endregion
@@ -93,15 +97,18 @@ namespace EFSessions
             //Console.WriteLine(dbContext.Entry(Employee).State);
             #endregion
             #region Delete
-            var Employee = (from E in dbContext.Employees
-                            where E.Code == 1
-                            select E).FirstOrDefault();
-            Console.WriteLine(dbContext.Entry(Employee).State);
-            dbContext.Employees.Remove(Employee); // Removing Locally
-            Console.WriteLine(dbContext.Entry(Employee).State);
-            dbContext.SaveChanges(); // Remove remotely
-            Console.WriteLine(dbContext.Entry(Employee).State);
+            //var Employee = (from E in dbContext.Employees
+            //                where E.Code == 1
+            //                select E).FirstOrDefault();
+            //Console.WriteLine(dbContext.Entry(Employee).State);
+            //dbContext.Employees.Remove(Employee); // Removing Locally
+            //Console.WriteLine(dbContext.Entry(Employee).State);
+            //dbContext.SaveChanges(); // Remove remotely
+            //Console.WriteLine(dbContext.Entry(Employee).State);
             #endregion
+            #endregion
+            #region One To Many
+
             #endregion
             #endregion
         }

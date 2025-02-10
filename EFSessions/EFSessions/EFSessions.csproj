@@ -16,9 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="FluentApis">
-      <HintPath>..\..\FluentApis\FluentApis\bin\Debug\net8.0\FluentApis.dll</HintPath>
-    </Reference>
+    <Folder Include="Data\Migrations\" />
   </ItemGroup>
 
 </Project>

@@ -123,11 +123,10 @@ C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.AssemblyInfoInputs.cache
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.AssemblyInfo.cs
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.csproj.CoreCompileInputs.cache
+C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.sourcelink.json
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.csproj.Up2Date
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.dll
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\refint\EFSessions.dll
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.pdb
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\EFSessions.genruntimeconfig.cache
 C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\obj\Debug\net8.0\ref\EFSessions.dll
-C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\bin\Debug\net8.0\FluentApis.dll
-C:\Web\Backend\04 Entity Framework\Sessions\EFSessions\EFSessions\bin\Debug\net8.0\FluentApis.pdb

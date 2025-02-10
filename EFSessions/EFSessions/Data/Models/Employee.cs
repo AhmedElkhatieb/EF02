@@ -5,7 +5,6 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using FluentApis;
 
 namespace EFSessions.Data.Models
 {
@@ -43,9 +42,19 @@ namespace EFSessions.Data.Models
         public string Phone { get; set; }
         [DataType(DataType.Password)]
         public string Password { get; set; }
-        [ForeignKey("Department")]
-        public int DeptId { get; set; }
-        public Department Department { get; set; }
-        // Navigational Property => one
+        #region Work Relation
+        //[ForeignKey("Department")]
+        [ForeignKey(nameof(Department))]
+        public int? DepartmentDeptId { get; set; } // Set foreign key for Department Table
+        [InverseProperty(nameof(Models.Department.Employees))]
+        public Department? Department { get; set; } // Navigational Property [One]
+        #endregion
+        #region Manage Relation
+        [InverseProperty(nameof(Models.Department.Manager))]
+        public Department? ManageDepartment { get; set; } // Navigational Property [One]
+        // Now when trying to add migration there will be an error because EF wont be able to
+        // Determine which NP is whose (we have 2 NP)
+        // Solution: Using Inverse Property
+        #endregion
     }
 }
