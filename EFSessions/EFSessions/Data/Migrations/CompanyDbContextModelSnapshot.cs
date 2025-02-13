@@ -52,18 +52,18 @@ namespace EFSessions.Data.Migrations
                         .HasColumnType("date")
                         .HasDefaultValueSql("GETDATE()");
 
-                    b.Property<int>("ManagerId")
+                    b.Property<int?>("ManagerId")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("varchar")
-                        .HasColumnName("DeptName");
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar");
 
                     b.HasKey("DeptId");
 
                     b.HasIndex("ManagerId")
-                        .IsUnique();
+                        .IsUnique()
+                        .HasFilter("[ManagerId] IS NOT NULL");
 
                     b.ToTable("Departments");
                 });
@@ -83,7 +83,6 @@ namespace EFSessions.Data.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -91,11 +90,9 @@ namespace EFSessions.Data.Migrations
                         .HasColumnType("varchar");
 
                     b.Property<string>("Password")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Salary")
@@ -150,9 +147,7 @@ namespace EFSessions.Data.Migrations
                 {
                     b.HasOne("EFSessions.Data.Models.Employee", "Manager")
                         .WithOne("ManageDepartment")
-                        .HasForeignKey("EFSessions.Data.Models.Department", "ManagerId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("EFSessions.Data.Models.Department", "ManagerId");
 
                     b.Navigation("Manager");
                 });

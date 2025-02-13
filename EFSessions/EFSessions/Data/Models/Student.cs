@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EFSessions.Data.Models
 {
-    internal class Student
+    public class Student
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -16,7 +16,7 @@ namespace EFSessions.Data.Models
         // Like that EF will create the many to many relation by convention but if the 
         // relation has an attribute like grade, we wont be able to add it
         // Solution: use FluentApis
-        public ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
+        public virtual ICollection<StudentCourse> StudentCourses { get; set; } = new HashSet<StudentCourse>();
 
     }
 }

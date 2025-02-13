@@ -14,6 +14,7 @@ namespace EFSessions.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=DESKTOP-UFFGN5G;Database=Company;Trusted_Connection=True;Trustservercertificate=true");
+            optionsBuilder.UseLazyLoadingProxies();
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

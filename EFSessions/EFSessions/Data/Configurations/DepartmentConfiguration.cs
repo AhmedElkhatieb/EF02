@@ -17,9 +17,7 @@ namespace EFSessions.Data.Configurations
             builder.HasKey(nameof(Department.DeptId));
             builder.Property(D => D.DeptId).UseIdentityColumn(10, 10);
             builder.Property(D => D.Name)
-                .HasColumnName("DeptName")
-                .HasColumnType("varchar")
-                .IsRequired();
+                .HasColumnType("varchar");
             builder.Property(D => D.CreationDate)
                 .HasDefaultValueSql("GETDATE()");
             
