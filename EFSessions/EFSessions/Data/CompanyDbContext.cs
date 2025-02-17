@@ -41,6 +41,9 @@ namespace EFSessions.Data
             //    .HasDefaultValueSql("GETDATE()");
             //modelBuilder.Entity<Department>().ToTable("Departments", "dbo"); // Not prefered
             #endregion
+            #region EmployeeDepartmentView
+            modelBuilder.Entity<EmployeeDepartmentView>().ToView("EmployeeDepartmentView").HasNoKey();
+            #endregion
             //modelBuilder.ApplyConfiguration<Employee>(new EmployeeConfiguration());
             //modelBuilder.ApplyConfiguration<Department>(new DepartmentConfiguration());
             //// we are repeating!!
@@ -52,5 +55,6 @@ namespace EFSessions.Data
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<StudentCourse> StudCourses { get; set; }
+        public DbSet<EmployeeDepartmentView> EmployeeDepartmentViews { get; set; }
     }
 }

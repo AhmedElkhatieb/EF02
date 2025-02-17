@@ -209,18 +209,32 @@ namespace EFSessions
             //Console.WriteLine($"Emp Name: {employee.Name}, Department: {employee.Department?.Name ?? "No Data"}");
             #endregion
             #region Example 2
-            var Department = (from D in dbContext.Departments
-                              where D.DeptId == 30
-                              select D).FirstOrDefault();
-            if (Department is not null)
-            {
-                Console.WriteLine($"Department: {Department.Name}");
-                foreach (var emp in Department.Employees)
-                {
-                    Console.WriteLine($"{emp?.Name ?? "No Data"}");
-                }
-            }
+            //var Department = (from D in dbContext.Departments
+            //                  where D.DeptId == 30
+            //                  select D).FirstOrDefault();
+            //if (Department is not null)
+            //{
+            //    Console.WriteLine($"Department: {Department.Name}");
+            //    foreach (var emp in Department.Employees)
+            //    {
+            //        Console.WriteLine($"{emp?.Name ?? "No Data"}");
+            //    }
+            //}
             #endregion
+            #endregion
+
+
+            #region Views
+            // Create an empty migration
+            // Write the sql code for view in up and for drop in down
+            //var Resault = dbContext.Employees.FromSqlRaw("select * from EmployeeDepartmentView");
+            //var Resault = from item in dbContext.EmployeeDepartmentViews
+            //              select item;
+            // No Need (We can use dbcontext.View)
+            foreach(var item in dbContext.EmployeeDepartmentViews)
+            {
+                Console.WriteLine($"{item.EmployeeName}--{item.DepartmentName}");
+            }
             #endregion
             #endregion
         }
